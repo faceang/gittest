@@ -1,0 +1,2 @@
+git push --set-upstream https://github.com/faceang/gittest.git master
+:
